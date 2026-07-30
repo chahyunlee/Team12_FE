@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/59ea2ba3-28a9-450a-b17e-1b5892c6fe0f
 
 ### 3. 에브리타임 시간표 연동
 
-https://github.com/user-attachments/assets/6da9f127-6620-43d8-8c7a-f663d967ed8a
+https://github.com/user-attachments/assets/231efdd5-6695-4864-8af4-18972185f7b9
 
 > [!NOTE]
 > **에브리타임 시간표 이미지 또는 에브리타임 시간표 공유 링크를 업로드해 일정에 연동**할 수 있도록 구성했습니다.
